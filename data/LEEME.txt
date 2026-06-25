@@ -1,9 +1,0 @@
-Ubica aquí los archivos Excel fuente con estos nombres exactos:
-
-1. PIM Indisponibilidades 2026-ESSA.xlsx
-   - Hoja requerida: Menores ESSA
-
-2. PIM Indisponibilidades 2026-CHEC.xlsx
-   - Hojas requeridas: Mayores CHEC y Menores CHEC
-
-Cuando modifiques o reemplaces cualquiera de estos archivos, el servicio local detectará el cambio y el dashboard se actualizará automáticamente en el navegador.
