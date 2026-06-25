@@ -164,7 +164,7 @@
       "estado": "Cancelado",
       "fechaInicio": "2026-05-24T07:00:00",
       "fechaFin": "2026-05-24T11:00:00",
-      "duracionHoras": 2000.0,
+      "duracionHoras": 10000.0,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Cond",
@@ -4987,12 +4987,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-06-25 17:00:56",
+    "snapshot": "2026-06-25 17:06:04",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1782424772.5524945,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1782425151.1514452,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1782414178.0
     }
   },
-  "version": "7ec79246e333f8cd"
+  "version": "b1b697db2f1eb36b"
 }
