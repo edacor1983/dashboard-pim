@@ -3014,7 +3014,7 @@
       "estado": "(En blanco)",
       "fechaInicio": "2026-08-03T07:00:00",
       "fechaFin": "2026-08-12T17:00:00",
-      "duracionHoras": 226.0,
+      "duracionHoras": 20000.0,
       "extensionFlag": 0,
       "activo": "Activo de Conversión",
       "tarea": "PL_Cond",
@@ -4987,12 +4987,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-06-25 17:11:38",
+    "snapshot": "2026-06-25 17:13:53",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1782425493.1562624,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1782425586.3398023,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1782414178.0
     }
   },
-  "version": "b8e874c60aea609b"
+  "version": "a86f2fe9134d0bd5"
 }
