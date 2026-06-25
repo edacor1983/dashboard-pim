@@ -564,7 +564,7 @@
       "estado": "Ejecutado",
       "fechaInicio": "2026-01-15T06:30:00",
       "fechaFin": "2026-01-15T10:40:00",
-      "duracionHoras": 20000.0,
+      "duracionHoras": 4.17,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Cond",
@@ -589,7 +589,7 @@
       "estado": "Ejecutado",
       "fechaInicio": "2026-01-15T06:30:00",
       "fechaFin": "2026-01-15T10:40:00",
-      "duracionHoras": 4.17,
+      "duracionHoras": 20000.0,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Cond",
@@ -4987,12 +4987,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-06-25 17:08:12",
+    "snapshot": "2026-06-25 17:10:25",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1782425259.0350873,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1782425370.0299065,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1782414178.0
     }
   },
-  "version": "e6abb74ecc865703"
+  "version": "18559d7659b19473"
 }
