@@ -1,0 +1,7 @@
+# Evita subir archivos Excel por error
+*.xlsx
+*.xls
+*.xlsm
+excel/
+__pycache__/
+*.pyc
