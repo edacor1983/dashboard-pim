@@ -2989,7 +2989,7 @@
       "estado": "Extensión",
       "fechaInicio": "2026-07-06T03:43:00",
       "fechaFin": "2026-07-06T16:14:00",
-      "duracionHoras": 12.52,
+      "duracionHoras": 0.0,
       "extensionFlag": 1,
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
@@ -4987,12 +4987,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-17 10:30:50",
+    "snapshot": "2026-07-17 10:33:02",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784302227.6844106,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784302365.9218051,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1782837343.1823242
     }
   },
-  "version": "76e3128185dd3ebc"
+  "version": "791c7a4bdf0f799f"
 }
