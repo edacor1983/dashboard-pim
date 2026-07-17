@@ -4219,7 +4219,7 @@
       "hoja": "Mayores CHEC",
       "filaExcel": 15,
       "sigla": "SFC",
-      "central": "SAN FRANCISCO",
+      "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
       "origen": "Plan",
       "origenNorm": "Plan",
@@ -5547,12 +5547,12 @@
       "CHEC Mayores": 26,
       "CHEC Menores": 36
     },
-    "snapshot": "2026-07-17 13:11:40",
+    "snapshot": "2026-07-17 14:16:52",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784306145.2308435,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1784305861.949265
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784314391.7612188,
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1784315792.9579816
     }
   },
-  "version": "1d0d180feae156fe"
+  "version": "6127af4e9c262135"
 }
