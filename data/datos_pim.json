@@ -2944,7 +2944,7 @@
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
       "descripcion": "Proyecto optimización de equipos críticos para la seguridad operacional de la central palmas (inversiones mínimas): obras civiles y metalmecánicas represa de bocas, recuperación de compuertas.",
-      "semana": null,
+      "semana": 1,
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
@@ -2969,7 +2969,7 @@
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
       "descripcion": "Proyecto optimización de equipos críticos para la seguridad operacional de la central palmas (inversiones mínimas): obras civiles y metalmecánicas represa de bocas, recuperación de compuertas.",
-      "semana": null,
+      "semana": 1,
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
@@ -2994,7 +2994,7 @@
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
       "descripcion": "Proyecto optimización de equipos críticos para la seguridad operacional de la central palmas (inversiones mínimas): obras civiles y metalmecánicas represa de bocas, recuperación de compuertas.",
-      "semana": null,
+      "semana": 28,
       "mes": 7,
       "mesNombre": "julio",
       "anio": "2026",
@@ -4987,12 +4987,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-17 10:29:38",
+    "snapshot": "2026-07-17 10:30:50",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784302149.917727,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784302227.6844106,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1782837343.1823242
     }
   },
-  "version": "6fede51bf02e9484"
+  "version": "76e3128185dd3ebc"
 }
