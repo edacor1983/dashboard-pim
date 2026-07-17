@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Dashboard PIM Indisponibilidades 2026 · v25</title>
+<title>Dashboard PIM Indisponibilidades 2026 · v26</title>
 <style>
 :root {
   --blue:#118DFF;
@@ -325,20 +325,26 @@ function filteredRows() {
     (!state.mes.size || state.mes.has(String(r.mes || 0)))
   );
 }
+function rowHours(r) {
+  const dur = Number(r.duracionHoras || 0);
+  const ext = Number(r.extensionHoras || r.extensionesHoras || 0);
+  const isExt = (r.origenNorm === 'Extensión' || r.extensionFlag);
+  return isExt ? (ext > 0 ? ext : dur) : dur;
+}
 function metricValue(rows, category) {
   const match = r => category === 'Extensión' ? (r.origenNorm === 'Extensión' || r.extensionFlag) : r.origenNorm === category;
   if (state.mode === 'ejecucion') return rows.filter(match).length;
-  return rows.filter(match).reduce((a,r)=>a+(+r.duracionHoras||0),0);
+  return rows.filter(match).reduce((a,r)=>a+rowHours(r),0);
 }
 function canceladoMetric(rows) {
   const subset = rows.filter(r => r.estado === 'Cancelado');
   if (state.mode === 'ejecucion') return subset.length;
-  return subset.reduce((a,r)=>a+(+r.duracionHoras||0),0);
+  return subset.reduce((a,r)=>a+rowHours(r),0);
 }
 function totals(rows) {
   const t={}; SERIES.forEach(s => t[s.key]=metricValue(rows,s.key));
   t.total=rows.length;
-  t.horas=rows.reduce((a,r)=>a+(+r.duracionHoras||0),0);
+  t.horas=rows.reduce((a,r)=>a+rowHours(r),0);
   t.canceladas=rows.filter(r=>r.estado==='Cancelado').length;
   t.canceladasValor=canceladoMetric(rows);
   t.ejecutadasEstado=rows.filter(r=>r.estado==='Ejecutado').length;
@@ -593,7 +599,7 @@ function renderKpis(rows,t) {
   document.getElementById('kpiStrip').innerHTML = items.map(([label,val,extra])=>`<div class="kpi"><div class="kpi-top"><div><b>${safe(val)}</b><span>${safe(label)}</span></div><span class="kpi-icon" data-kind="${safe(kpiIcon(label))}">${iconSvg(kpiIcon(label))}</span></div><em class="chip">${safe(extra)}</em></div>`).join('');
 }
 function renderDetail(rows) {
-  const columns = ['empresa','grupo','central','unidad','origen','origenNorm','estado','mesNombre','fechaInicio','fechaFin','duracionHoras','tarea','observacion'];
+  const columns = ['empresa','grupo','central','unidad','origen','origenNorm','estado','mesNombre','fechaInicio','fechaFin','duracionHoras','extensionHoras','horasMedida','tarea','observacion'];
   const head = `<thead><tr>${columns.map(c=>`<th>${safe(c)}</th>`).join('')}</tr></thead>`;
   const body = rows.slice(0,1000).map(r=>`<tr>${columns.map(c=>`<td>${safe(r[c])}</td>`).join('')}</tr>`).join('');
   document.getElementById('detailTable').innerHTML = head + `<tbody>${body}</tbody>`;
@@ -640,7 +646,7 @@ function onSlicer(e) {
 }
 function exportCsv() {
   const rows = filteredRows();
-  const cols = ['empresa','grupo','hoja','filaExcel','central','unidad','origen','origenNorm','estado','mesNombre','fechaInicio','fechaFin','duracionHoras','activo','tarea','descripcion','observacion'];
+  const cols = ['empresa','grupo','hoja','filaExcel','central','unidad','origen','origenNorm','estado','mesNombre','fechaInicio','fechaFin','duracionHoras','extensionHoras','horasMedida','activo','tarea','descripcion','observacion'];
   const csv = [cols.join(';')].concat(rows.map(r => cols.map(c => `"${String(r[c] ?? '').replace(/"/g,'""')}"`).join(';'))).join('\\n');
   const blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
   const a = document.createElement('a');
