@@ -7,7 +7,7 @@
       "CHEC": 0
     },
     "byGrupo": {},
-    "snapshot": "2026-07-17 11:57:11",
+    "snapshot": "2026-07-17 11:57:23",
     "errors": [
       "Error leyendo PIM Indisponibilidades 2026-ESSA.xlsx / Menores ESSA: name 'extension_horas' is not defined",
       "Error leyendo PIM Indisponibilidades 2026-CHEC.xlsx / Mayores CHEC: name 'extension_horas' is not defined",
