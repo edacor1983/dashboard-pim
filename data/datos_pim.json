@@ -3088,8 +3088,8 @@
       "origenNorm": "Programación",
       "estado": "(En blanco)",
       "fechaInicio": "2026-01-01T00:00:01",
-      "fechaFin": "2026-05-27T15:35:00",
-      "duracionHoras": 3519.58,
+      "fechaFin": "2026-02-28T17:00:00",
+      "duracionHoras": 1409.0,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
@@ -3112,17 +3112,17 @@
       "origen": "Ejecución",
       "origenNorm": "Ejecución",
       "estado": "(En blanco)",
-      "fechaInicio": "",
-      "fechaFin": "",
-      "duracionHoras": 0.0,
+      "fechaInicio": "2026-01-01T00:00:01",
+      "fechaFin": "2026-02-28T17:00:00",
+      "duracionHoras": 1409.0,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
       "descripcion": "Proyecto optimización de equipos críticos para la seguridad operacional de la central palmas (inversiones mínimas): obras civiles y metalmecánicas represa de bocas, recuperación de compuertas.",
       "semana": null,
-      "mes": 0,
-      "mesNombre": "(En blanco)",
-      "anio": "",
+      "mes": 1,
+      "mesNombre": "enero",
+      "anio": "2026",
       "observacion": ""
     },
     {
@@ -3137,17 +3137,17 @@
       "origen": "Extensión",
       "origenNorm": "Extensión",
       "estado": "Extensión",
-      "fechaInicio": "",
-      "fechaFin": "",
+      "fechaInicio": "2026-02-28T17:00:00",
+      "fechaFin": "2026-05-27T15:35:00",
       "duracionHoras": 0.0,
       "extensionFlag": 1,
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
       "descripcion": "Proyecto optimización de equipos críticos para la seguridad operacional de la central palmas (inversiones mínimas): obras civiles y metalmecánicas represa de bocas, recuperación de compuertas.",
       "semana": null,
-      "mes": 0,
-      "mesNombre": "(En blanco)",
-      "anio": "",
+      "mes": 2,
+      "mesNombre": "febrero",
+      "anio": "2026",
       "observacion": "Se encuentra en ejecución, inicio 25/08/2025 las 07:15 horas"
     },
     {
@@ -4987,12 +4987,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-17 10:38:14",
+    "snapshot": "2026-07-17 10:40:25",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784302664.2135792,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1784302766.6137035,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1782837343.1823242
     }
   },
-  "version": "e104d1c5af99c81a"
+  "version": "7785740a8f8490f6"
 }
