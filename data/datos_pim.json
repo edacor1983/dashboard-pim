@@ -3764,7 +3764,7 @@
       "unidad": "PALMAS 1",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-01-01T00:00:01",
       "fechaFin": "2026-02-28T17:00:00",
       "duracionHoras": 1409.0,
@@ -3791,12 +3791,12 @@
       "unidad": "PALMAS 1",
       "origen": "Programación 1",
       "origenNorm": "Programación",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-01-01T00:00:01",
-      "fechaFin": "2026-02-28T17:00:00",
-      "duracionHoras": 1409.0,
+      "fechaFin": "2026-05-27T17:35:00",
+      "duracionHoras": 3521.58,
       "extensionHoras": 0.0,
-      "horasMedida": 1409.0,
+      "horasMedida": 3521.58,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
@@ -3818,7 +3818,7 @@
       "unidad": "PALMAS 1",
       "origen": "Ejecución",
       "origenNorm": "Ejecución",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-01-01T00:00:01",
       "fechaFin": "2026-02-28T17:00:00",
       "duracionHoras": 1409.0,
@@ -6006,12 +6006,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-29 14:42:08",
+    "snapshot": "2026-07-29 14:45:18",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785354101.4028423,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785354283.9763193,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1784325730.3907156
     }
   },
-  "version": "3966cf1f682577fe"
+  "version": "f7652fad9be09770"
 }
