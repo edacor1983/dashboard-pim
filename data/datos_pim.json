@@ -3008,7 +3008,7 @@
       "unidad": "CASCADA 5",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Cancelado",
       "fechaInicio": "2026-05-10T07:00:00",
       "fechaFin": "2026-05-10T11:00:00",
       "duracionHoras": 4.0,
@@ -3035,7 +3035,7 @@
       "unidad": "CASCADA 5",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Cancelado",
       "fechaInicio": "2026-05-24T07:00:00",
       "fechaFin": "2026-05-24T11:00:00",
       "duracionHoras": 4.0,
@@ -5682,12 +5682,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-29 14:17:20",
+    "snapshot": "2026-07-29 14:18:30",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785352633.9699044,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785352697.2223952,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1784325730.3907156
     }
   },
-  "version": "1eab6b38870c0e14"
+  "version": "4c4397f9278a0cbb"
 }
