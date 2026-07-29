@@ -3211,7 +3211,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": "Se encuentra en ejecución, inicio 25/08/2025 las 00:00 horas"
+      "observacion": ""
     },
     {
       "id": "ESSA-Menores-121",
@@ -3238,7 +3238,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": "Se encuentra en ejecución, inicio 25/08/2025 las 00:00 horas"
+      "observacion": ""
     },
     {
       "id": "ESSA-Menores-122",
@@ -3373,7 +3373,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": "Se encuentra en ejecución, inicio 25/08/2025 las 07:15 horas"
+      "observacion": ""
     },
     {
       "id": "ESSA-Menores-127",
@@ -3400,7 +3400,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": "Se encuentra en ejecución, inicio 25/08/2025 las 07:15 horas"
+      "observacion": ""
     },
     {
       "id": "ESSA-Menores-128",
@@ -3535,7 +3535,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": "Se encuentra en ejecución, se encuentra indisponible desde la fecha 01/05/2025 las 00:00 horas"
+      "observacion": ""
     },
     {
       "id": "ESSA-Menores-133",
@@ -3562,7 +3562,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": "Se encuentra en ejecución, se encuentra indisponible desde la fecha 01/05/2025 las 00:00 horas"
+      "observacion": ""
     },
     {
       "id": "ESSA-Menores-134",
@@ -3724,7 +3724,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": "Se encuentra en ejecución, inicio 26/02/2025 las 15:57 horas"
+      "observacion": ""
     },
     {
       "id": "ESSA-Menores-140",
@@ -5439,12 +5439,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-29 13:24:01",
+    "snapshot": "2026-07-29 13:26:12",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785349386.033578,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785349543.7095249,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1784325730.3907156
     }
   },
-  "version": "662adf64cf5aaa83"
+  "version": "06b8cac6fa491883"
 }
