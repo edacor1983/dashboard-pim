@@ -4017,7 +4017,7 @@
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
       "descripcion": "Proyecto optimización de equipos críticos para la seguridad operacional de la central palmas (inversiones mínimas): obras civiles y metalmecánicas represa de bocas, recuperación de compuertas.",
-      "semana": null,
+      "semana": 9,
       "mes": 2,
       "mesNombre": "febrero",
       "anio": "2026",
@@ -4333,10 +4333,10 @@
       "origenNorm": "Eje Pendiente",
       "estado": "(En blanco)",
       "fechaInicio": "2026-01-01T00:00:01",
-      "fechaFin": "2026-05-08T17:00:00",
-      "duracionHoras": 3065.0,
+      "fechaFin": "",
+      "duracionHoras": 0.0,
       "extensionHoras": 0.0,
-      "horasMedida": 3065.0,
+      "horasMedida": 0.0,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Act.Tecn",
@@ -6006,12 +6006,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-29 15:23:48",
+    "snapshot": "2026-07-29 15:24:58",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785356590.751588,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785356694.5152452,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1784325730.3907156
     }
   },
-  "version": "e0e5bea83fd3f501"
+  "version": "f5af2d025105cda8"
 }
