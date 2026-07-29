@@ -2200,10 +2200,10 @@
       "origenNorm": "Fuera de PIM",
       "estado": "Sin_Plan",
       "fechaInicio": "2026-04-22T16:25:00",
-      "fechaFin": "",
-      "duracionHoras": 0.0,
+      "fechaFin": "2026-04-22T17:20:00",
+      "duracionHoras": 0.92,
       "extensionHoras": 0.0,
-      "horasMedida": 0.0,
+      "horasMedida": 0.92,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "PL_Cond",
@@ -5628,12 +5628,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-29 14:06:24",
+    "snapshot": "2026-07-29 14:07:39",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785351930.3061028,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785352018.3386405,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1784325730.3907156
     }
   },
-  "version": "2b3c286b75ed803a"
+  "version": "47490b3d43fbf014"
 }
