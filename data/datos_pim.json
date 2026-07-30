@@ -5411,7 +5411,7 @@
       "unidad": "INSULA 1",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-01-12T00:00:00",
       "fechaFin": "2026-02-23T00:00:00",
       "duracionHoras": 1008.0,
@@ -5438,7 +5438,7 @@
       "unidad": "INSULA 2",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-05-25T07:01:00",
       "fechaFin": "2026-05-28T16:11:00",
       "duracionHoras": 81.17,
@@ -5465,7 +5465,7 @@
       "unidad": "INSULA 3",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-06-30T07:05:00",
       "fechaFin": "2026-06-30T20:30:00",
       "duracionHoras": 13.42,
@@ -5924,7 +5924,7 @@
       "unidad": "INTERMEDIA",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "(En blanco)",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-01-01T00:00:00",
       "fechaFin": "",
       "duracionHoras": 0.0,
@@ -6032,7 +6032,7 @@
       "unidad": "MUNICIPAL 1",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-02-23T00:00:00",
       "fechaFin": "2026-05-04T11:01:00",
       "duracionHoras": 1691.02,
@@ -6113,7 +6113,7 @@
       "unidad": "MUNICIPAL 1",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-06-01T00:00:00",
       "fechaFin": "",
       "duracionHoras": 0.0,
@@ -6410,7 +6410,7 @@
       "unidad": "SANCANCIO 1",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-07-09T08:27:00",
       "fechaFin": "2026-07-09T09:20:00",
       "duracionHoras": 0.88,
@@ -6573,12 +6573,12 @@
       "CHEC Mayores": 29,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-07-30 15:56:26",
+    "snapshot": "2026-07-30 15:57:36",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785444934.6829593,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785444870.8141649
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785445037.3109238
     }
   },
-  "version": "4a490a1afe026758"
+  "version": "b5d79b419d9b97fd"
 }
