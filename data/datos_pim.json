@@ -5236,7 +5236,7 @@
       "mes": 2,
       "mesNombre": "febrero",
       "anio": "2026",
-      "observacion": "Se encuentra pendiente"
+      "observacion": "Se encuentra por fuera de servicio desde 12 de enero 2026 por vibraciones, Mantenimiento pendiente."
     },
     {
       "id": "CHEC-Menores-8",
@@ -6006,12 +6006,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-29 15:34:35",
+    "snapshot": "2026-07-30 07:27:36",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785357245.6966822,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1784325730.3907156
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785414444.4993236
     }
   },
-  "version": "89bfba165b9093b0"
+  "version": "42df036c186eaf1e"
 }
