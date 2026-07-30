@@ -4491,6 +4491,33 @@
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 1",
+      "origen": "Fuera de PIM",
+      "origenNorm": "Fuera de PIM",
+      "estado": "Ejecutado",
+      "fechaInicio": "2026-03-09T09:00:00",
+      "fechaFin": "2026-03-10T17:00:00",
+      "duracionHoras": 32.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 32.0,
+      "extensionFlag": 0,
+      "activo": "Activo de Conversión",
+      "tarea": "Especiales",
+      "descripcion": "Retirar árbol conducción",
+      "semana": 11,
+      "mes": 3,
+      "mesNombre": "marzo",
+      "anio": "2026",
+      "observacion": ""
+    },
+    {
+      "id": "CHEC-Mayores-10",
+      "empresa": "CHEC",
+      "grupo": "Mayores",
+      "hoja": "Mayores CHEC",
+      "filaExcel": 10,
+      "sigla": "ESM",
+      "central": "ESMERALDA",
+      "unidad": "ESMERALDA 1",
       "origen": "Plan",
       "origenNorm": "Plan",
       "estado": "Ejecutado",
@@ -4510,11 +4537,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-5",
+      "id": "CHEC-Mayores-11",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 5,
+      "filaExcel": 11,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 1",
@@ -4537,11 +4564,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-6",
+      "id": "CHEC-Mayores-12",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 6,
+      "filaExcel": 12,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 1",
@@ -4564,11 +4591,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-7",
+      "id": "CHEC-Mayores-13",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 7,
+      "filaExcel": 13,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 1",
@@ -4591,11 +4618,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-8",
+      "id": "CHEC-Mayores-14",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 8,
+      "filaExcel": 14,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 1",
@@ -4618,11 +4645,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-9",
+      "id": "CHEC-Mayores-15",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 9,
+      "filaExcel": 15,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 1",
@@ -4645,11 +4672,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-10",
+      "id": "CHEC-Mayores-16",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 10,
+      "filaExcel": 16,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4672,11 +4699,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-11",
+      "id": "CHEC-Mayores-17",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 11,
+      "filaExcel": 17,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4699,11 +4726,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-12",
+      "id": "CHEC-Mayores-18",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 12,
+      "filaExcel": 18,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4726,11 +4753,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-13",
+      "id": "CHEC-Mayores-19",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 13,
+      "filaExcel": 19,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4753,11 +4780,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-14",
+      "id": "CHEC-Mayores-20",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 14,
+      "filaExcel": 20,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4780,11 +4807,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-15",
+      "id": "CHEC-Mayores-21",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 15,
+      "filaExcel": 21,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4807,11 +4834,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-16",
+      "id": "CHEC-Mayores-22",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 16,
+      "filaExcel": 22,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4834,11 +4861,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-17",
+      "id": "CHEC-Mayores-23",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 17,
+      "filaExcel": 23,
       "sigla": "SFC",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4861,11 +4888,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-18",
+      "id": "CHEC-Mayores-24",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 18,
+      "filaExcel": 24,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -4888,11 +4915,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-19",
+      "id": "CHEC-Mayores-25",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 19,
+      "filaExcel": 25,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -4915,11 +4942,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-20",
+      "id": "CHEC-Mayores-26",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 20,
+      "filaExcel": 26,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -4942,11 +4969,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-21",
+      "id": "CHEC-Mayores-27",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 21,
+      "filaExcel": 27,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 2",
@@ -4969,11 +4996,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-22",
+      "id": "CHEC-Mayores-28",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 22,
+      "filaExcel": 28,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 2",
@@ -4996,11 +5023,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-23",
+      "id": "CHEC-Mayores-29",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 23,
+      "filaExcel": 29,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -5023,11 +5050,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-24",
+      "id": "CHEC-Mayores-30",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 24,
+      "filaExcel": 30,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -5050,11 +5077,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-25",
+      "id": "CHEC-Mayores-31",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 25,
+      "filaExcel": 31,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -5077,11 +5104,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-26",
+      "id": "CHEC-Mayores-32",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 26,
+      "filaExcel": 32,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -5104,11 +5131,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-27",
+      "id": "CHEC-Mayores-33",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 27,
+      "filaExcel": 33,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 2",
@@ -5131,11 +5158,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-28",
+      "id": "CHEC-Mayores-34",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 28,
+      "filaExcel": 34,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -5158,11 +5185,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-29",
+      "id": "CHEC-Mayores-35",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 29,
+      "filaExcel": 35,
       "sigla": "TDO",
       "central": "DORADA",
       "unidad": "TERMODORADA A Y B",
@@ -6320,22 +6347,22 @@
     }
   ],
   "stats": {
-    "totalRecords": 234,
+    "totalRecords": 235,
     "byEmpresa": {
       "ESSA": 164,
-      "CHEC": 70
+      "CHEC": 71
     },
     "byGrupo": {
       "ESSA Menores": 164,
-      "CHEC Mayores": 28,
+      "CHEC Mayores": 29,
       "CHEC Menores": 42
     },
-    "snapshot": "2026-07-30 10:57:15",
+    "snapshot": "2026-07-30 11:14:26",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785426980.5843432
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785428059.8346899
     }
   },
-  "version": "1e66af5120042abe"
+  "version": "e2ad2cabedd885e2"
 }
