@@ -6439,10 +6439,10 @@
       "origenNorm": "Fuera de PIM",
       "estado": "Ejecutado",
       "fechaInicio": "2026-07-09T08:27:00",
-      "fechaFin": "",
-      "duracionHoras": 0.0,
+      "fechaFin": "2026-07-09T09:20:00",
+      "duracionHoras": 0.88,
       "extensionHoras": 0.0,
-      "horasMedida": 0.0,
+      "horasMedida": 0.88,
       "extensionFlag": 0,
       "activo": "Unidad",
       "tarea": "Pruebas",
@@ -6600,12 +6600,12 @@
       "CHEC Mayores": 30,
       "CHEC Menores": 50
     },
-    "snapshot": "2026-07-30 13:34:49",
+    "snapshot": "2026-07-30 13:37:59",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785436466.3745592
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785436667.342369
     }
   },
-  "version": "7032e4742d226297"
+  "version": "5314e0cd3389f0e6"
 }
