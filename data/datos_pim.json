@@ -5628,8 +5628,8 @@
       "origen": "Plan",
       "origenNorm": "Plan",
       "estado": "(En blanco)",
-      "fechaInicio": "2026-06-13T07:00:00",
-      "fechaFin": "2026-06-14T23:59:59",
+      "fechaInicio": "2026-07-13T07:00:00",
+      "fechaFin": "2026-07-14T23:59:59",
       "duracionHoras": 41.0,
       "extensionHoras": 0.0,
       "horasMedida": 41.0,
@@ -5637,18 +5637,18 @@
       "activo": "Unidad",
       "tarea": "MP_Cuatrimestral",
       "descripcion": "MP Cuatrimestral",
-      "semana": 24,
-      "mes": 6,
-      "mesNombre": "junio",
+      "semana": 29,
+      "mes": 7,
+      "mesNombre": "julio",
       "anio": "2026",
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-19",
+      "id": "CHEC-Menores-23",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 19,
+      "filaExcel": 23,
       "sigla": "INS",
       "central": "INSULA",
       "unidad": "INSULA 3",
@@ -5671,11 +5671,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-20",
+      "id": "CHEC-Menores-24",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 20,
+      "filaExcel": 24,
       "sigla": "INS",
       "central": "INSULA",
       "unidad": "INSULA 3",
@@ -5698,11 +5698,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-21",
+      "id": "CHEC-Menores-25",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 21,
+      "filaExcel": 25,
       "sigla": "INT",
       "central": "INTERMEDIA",
       "unidad": "INTERMEDIA",
@@ -5725,11 +5725,11 @@
       "observacion": "Unidad fuera de servicio por conducción"
     },
     {
-      "id": "CHEC-Menores-22",
+      "id": "CHEC-Menores-26",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 22,
+      "filaExcel": 26,
       "sigla": "INT",
       "central": "INTERMEDIA",
       "unidad": "INTERMEDIA",
@@ -5752,11 +5752,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-23",
+      "id": "CHEC-Menores-27",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 23,
+      "filaExcel": 27,
       "sigla": "INT",
       "central": "INTERMEDIA",
       "unidad": "INTERMEDIA",
@@ -5779,11 +5779,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-24",
+      "id": "CHEC-Menores-28",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 24,
+      "filaExcel": 28,
       "sigla": "MCP",
       "central": "MUNICIPAL",
       "unidad": "MUNICIPAL 1",
@@ -5806,11 +5806,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-25",
+      "id": "CHEC-Menores-29",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 25,
+      "filaExcel": 29,
       "sigla": "MCP",
       "central": "MUNICIPAL",
       "unidad": "MUNICIPAL 1",
@@ -5833,11 +5833,11 @@
       "observacion": "Se realizó en parada fuera de PIM, revisión de cojinete OT 705744"
     },
     {
-      "id": "CHEC-Menores-26",
+      "id": "CHEC-Menores-30",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 26,
+      "filaExcel": 30,
       "sigla": "MCP",
       "central": "MUNICIPAL",
       "unidad": "MUNICIPAL 1",
@@ -5860,11 +5860,11 @@
       "observacion": "Se realizó en parada fuera de PIM, revisión de cojinete OT 705744"
     },
     {
-      "id": "CHEC-Menores-27",
+      "id": "CHEC-Menores-31",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 27,
+      "filaExcel": 31,
       "sigla": "MCP",
       "central": "MUNICIPAL",
       "unidad": "MUNICIPAL 1",
@@ -5887,11 +5887,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-28",
+      "id": "CHEC-Menores-32",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 28,
+      "filaExcel": 32,
       "sigla": "MCP",
       "central": "MUNICIPAL",
       "unidad": "MUNICIPAL 2",
@@ -5914,11 +5914,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-29",
+      "id": "CHEC-Menores-33",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 29,
+      "filaExcel": 33,
       "sigla": "MCP",
       "central": "MUNICIPAL",
       "unidad": "MUNICIPAL 2",
@@ -5941,11 +5941,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-30",
+      "id": "CHEC-Menores-34",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 30,
+      "filaExcel": 34,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -5968,11 +5968,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-31",
+      "id": "CHEC-Menores-35",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 31,
+      "filaExcel": 35,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -5995,11 +5995,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-32",
+      "id": "CHEC-Menores-36",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 32,
+      "filaExcel": 36,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -6022,11 +6022,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-33",
+      "id": "CHEC-Menores-37",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 33,
+      "filaExcel": 37,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -6049,11 +6049,11 @@
       "observacion": "Se realizó en parada en salida forzada por desprendimiento de placa del muro del canal de conducción entrada tanque de carga. # SS 1326908, desde 28/04/2026 7:40 hasta 12/05/2026 17:17."
     },
     {
-      "id": "CHEC-Menores-34",
+      "id": "CHEC-Menores-38",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 34,
+      "filaExcel": 38,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -6076,11 +6076,11 @@
       "observacion": "Se realizó en parada en salida forzada por desprendimiento de placa del muro del canal de conducción entrada tanque de carga. # SS 1326908, desde 28/04/2026 7:40 hasta 12/05/2026 17:17."
     },
     {
-      "id": "CHEC-Menores-35",
+      "id": "CHEC-Menores-39",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 35,
+      "filaExcel": 39,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -6103,11 +6103,11 @@
       "observacion": "Se realizó en parada en salida forzada por desprendimiento de placa del muro del canal de conducción entrada tanque de carga. # SS 1326908, desde 28/04/2026 7:40 hasta 12/05/2026 17:17."
     },
     {
-      "id": "CHEC-Menores-36",
+      "id": "CHEC-Menores-40",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 36,
+      "filaExcel": 40,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -6130,11 +6130,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-37",
+      "id": "CHEC-Menores-41",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 37,
+      "filaExcel": 41,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6157,11 +6157,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-38",
+      "id": "CHEC-Menores-42",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 38,
+      "filaExcel": 42,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6184,11 +6184,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-39",
+      "id": "CHEC-Menores-43",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 39,
+      "filaExcel": 43,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6211,11 +6211,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-40",
+      "id": "CHEC-Menores-44",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 40,
+      "filaExcel": 44,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6249,12 +6249,12 @@
       "CHEC Mayores": 28,
       "CHEC Menores": 39
     },
-    "snapshot": "2026-07-30 10:17:00",
+    "snapshot": "2026-07-30 10:18:09",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424581.0794237
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424674.5071843
     }
   },
-  "version": "cce9048902785b23"
+  "version": "967dcc7d0ce39306"
 }
