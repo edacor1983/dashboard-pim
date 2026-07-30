@@ -3953,20 +3953,20 @@
       "unidad": "PALMAS 2",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
-      "fechaInicio": "2026-01-01T00:00:01",
-      "fechaFin": "2026-02-28T17:00:00",
-      "duracionHoras": 1409.0,
+      "estado": "Sin_Plan",
+      "fechaInicio": "",
+      "fechaFin": "",
+      "duracionHoras": 0.0,
       "extensionHoras": 0.0,
-      "horasMedida": 1409.0,
+      "horasMedida": 0.0,
       "extensionFlag": 0,
       "activo": "Activo de Conducción",
       "tarea": "Especiales",
-      "descripcion": "Proyecto optimización de equipos críticos para la seguridad operacional de la central palmas (inversiones mínimas): obras civiles y metalmecánicas represa de bocas, recuperación de compuertas.",
-      "semana": 1,
-      "mes": 1,
-      "mesNombre": "enero",
-      "anio": "2026",
+      "descripcion": "fuera de linea unidad # 2 por desembalse programado",
+      "semana": 52,
+      "mes": 0,
+      "mesNombre": "(En blanco)",
+      "anio": "",
       "observacion": ""
     },
     {
@@ -6573,12 +6573,12 @@
       "CHEC Mayores": 29,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-07-30 15:32:18",
+    "snapshot": "2026-07-30 15:40:30",
     "errors": [],
     "sourceMtimes": {
-      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785443508.652478,
+      "PIM Indisponibilidades 2026-ESSA.xlsx": 1785444010.6250625,
       "PIM Indisponibilidades 2026-CHEC.xlsx": 1785440083.719653
     }
   },
-  "version": "ade2fc8849cb2f91"
+  "version": "a36bc102d411f2bc"
 }
