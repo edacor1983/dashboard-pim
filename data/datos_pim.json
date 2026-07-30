@@ -4800,18 +4800,18 @@
       "activo": "Activo de Conversión",
       "tarea": "MP_Trimestral",
       "descripcion": "Tanque Esmeralda : MP, Lavada; Tanque de carga, inspección conducción -Mantenimiento tanque de carga con maquinaria amarilla -Cambio de aislamiento de tapa cojinete superior - Limpieza del rotor cleaner KV 30",
-      "semana": 52,
+      "semana": 28,
       "mes": 4,
       "mesNombre": "abril",
       "anio": "2026",
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-18",
+      "id": "CHEC-Mayores-16",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 18,
+      "filaExcel": 16,
       "sigla": "ESM",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4834,11 +4834,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-19",
+      "id": "CHEC-Mayores-17",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 19,
+      "filaExcel": 17,
       "sigla": "SFC",
       "central": "ESMERALDA",
       "unidad": "ESMERALDA 2",
@@ -4861,11 +4861,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-20",
+      "id": "CHEC-Mayores-18",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 20,
+      "filaExcel": 18,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -4888,11 +4888,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-21",
+      "id": "CHEC-Mayores-19",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 21,
+      "filaExcel": 19,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -4915,11 +4915,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-22",
+      "id": "CHEC-Mayores-20",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 22,
+      "filaExcel": 20,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -4942,11 +4942,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-23",
+      "id": "CHEC-Mayores-21",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 23,
+      "filaExcel": 21,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 2",
@@ -4969,11 +4969,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-24",
+      "id": "CHEC-Mayores-22",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 24,
+      "filaExcel": 22,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -4996,11 +4996,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-25",
+      "id": "CHEC-Mayores-23",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 25,
+      "filaExcel": 23,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -5023,11 +5023,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-26",
+      "id": "CHEC-Mayores-24",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 26,
+      "filaExcel": 24,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -5050,11 +5050,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-27",
+      "id": "CHEC-Mayores-25",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 27,
+      "filaExcel": 25,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 1",
@@ -5077,11 +5077,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-28",
+      "id": "CHEC-Mayores-26",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 28,
+      "filaExcel": 26,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 2",
@@ -5104,11 +5104,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-29",
+      "id": "CHEC-Mayores-27",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 29,
+      "filaExcel": 27,
       "sigla": "SFC",
       "central": "SAN FRANCISCO",
       "unidad": "SAN FRANCISCO 3",
@@ -5131,11 +5131,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Mayores-30",
+      "id": "CHEC-Mayores-28",
       "empresa": "CHEC",
       "grupo": "Mayores",
       "hoja": "Mayores CHEC",
-      "filaExcel": 30,
+      "filaExcel": 28,
       "sigla": "TDO",
       "central": "DORADA",
       "unidad": "TERMODORADA A Y B",
@@ -6087,12 +6087,12 @@
       "CHEC Mayores": 27,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-30 09:39:50",
+    "snapshot": "2026-07-30 09:41:01",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785422325.0910745
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785422439.9566667
     }
   },
-  "version": "c053bd9cf729bc71"
+  "version": "8dc9ec2103d7b172"
 }
