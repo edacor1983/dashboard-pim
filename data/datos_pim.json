@@ -6032,7 +6032,7 @@
       "unidad": "SANCANCIO 1",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-05-19T07:00:00",
       "fechaFin": "2026-05-22T18:00:00",
       "duracionHoras": 83.0,
@@ -6057,6 +6057,60 @@
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
+      "origen": "Programación 1",
+      "origenNorm": "Programación",
+      "estado": "Ejecutado",
+      "fechaInicio": "",
+      "fechaFin": "",
+      "duracionHoras": 0.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 0.0,
+      "extensionFlag": 0,
+      "activo": "Unidad",
+      "tarea": "MP_Cuatrimestral",
+      "descripcion": "MP Cuatrimestral",
+      "semana": 52,
+      "mes": 0,
+      "mesNombre": "(En blanco)",
+      "anio": "",
+      "observacion": ""
+    },
+    {
+      "id": "CHEC-Menores-35",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 35,
+      "sigla": "SANC",
+      "central": "SANCANCIO",
+      "unidad": "SANCANCIO 1",
+      "origen": "Ejecución",
+      "origenNorm": "Ejecución",
+      "estado": "Ejecutado",
+      "fechaInicio": "",
+      "fechaFin": "",
+      "duracionHoras": 0.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 0.0,
+      "extensionFlag": 0,
+      "activo": "Unidad",
+      "tarea": "MP_Cuatrimestral",
+      "descripcion": "MP Cuatrimestral",
+      "semana": 52,
+      "mes": 0,
+      "mesNombre": "(En blanco)",
+      "anio": "",
+      "observacion": ""
+    },
+    {
+      "id": "CHEC-Menores-39",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 39,
+      "sigla": "SANC",
+      "central": "SANCANCIO",
+      "unidad": "SANCANCIO 1",
       "origen": "Plan",
       "origenNorm": "Plan",
       "estado": "(En blanco)",
@@ -6076,11 +6130,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-35",
+      "id": "CHEC-Menores-40",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 35,
+      "filaExcel": 40,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6103,11 +6157,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-36",
+      "id": "CHEC-Menores-41",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 36,
+      "filaExcel": 41,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6130,11 +6184,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-37",
+      "id": "CHEC-Menores-42",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 37,
+      "filaExcel": 42,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6157,11 +6211,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-38",
+      "id": "CHEC-Menores-43",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 38,
+      "filaExcel": 43,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6185,22 +6239,22 @@
     }
   ],
   "stats": {
-    "totalRecords": 229,
+    "totalRecords": 231,
     "byEmpresa": {
       "ESSA": 164,
-      "CHEC": 65
+      "CHEC": 67
     },
     "byGrupo": {
       "ESSA Menores": 164,
       "CHEC Mayores": 28,
-      "CHEC Menores": 37
+      "CHEC Menores": 39
     },
-    "snapshot": "2026-07-30 10:07:32",
+    "snapshot": "2026-07-30 10:09:41",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424004.6156292
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424124.466275
     }
   },
-  "version": "95f731a9fcd6d3dd"
+  "version": "afc340dcef1efb28"
 }
