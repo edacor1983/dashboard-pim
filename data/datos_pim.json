@@ -5398,7 +5398,7 @@
       "mes": 1,
       "mesNombre": "enero",
       "anio": "2026",
-      "observacion": ""
+      "observacion": "Revisar vibraciones cojinete inferior PO 668729"
     },
     {
       "id": "CHEC-Menores-10",
@@ -5421,11 +5421,65 @@
       "activo": "Activo de Conversión",
       "tarea": "Especiales",
       "descripcion": "Mantenimiento mayor de turbina PO 699358",
-      "semana": null,
+      "semana": 9,
       "mes": 2,
       "mesNombre": "febrero",
       "anio": "2026",
-      "observacion": ""
+      "observacion": "Mantenimiento mayor de turbina PO 699358"
+    },
+    {
+      "id": "CHEC-Menores-11",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 11,
+      "sigla": "INS",
+      "central": "INSULA",
+      "unidad": "INSULA 2",
+      "origen": "Fuera de PIM",
+      "origenNorm": "Fuera de PIM",
+      "estado": "Ejecutado",
+      "fechaInicio": "2026-04-13T07:00:00",
+      "fechaFin": "",
+      "duracionHoras": 0.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 0.0,
+      "extensionFlag": 0,
+      "activo": "Activo de Conversión",
+      "tarea": "Especiales",
+      "descripcion": "Mantenimiento cuatrimestral. PO 66737",
+      "semana": 16,
+      "mes": 4,
+      "mesNombre": "abril",
+      "anio": "2026",
+      "observacion": "Mantenimiento cuatrimestral. PO 66737"
+    },
+    {
+      "id": "CHEC-Menores-12",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 12,
+      "sigla": "INS",
+      "central": "INSULA",
+      "unidad": "INSULA 2",
+      "origen": "Fuera de PIM",
+      "origenNorm": "Fuera de PIM",
+      "estado": "Ejecutado",
+      "fechaInicio": "2026-05-25T07:01:00",
+      "fechaFin": "",
+      "duracionHoras": 0.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 0.0,
+      "extensionFlag": 0,
+      "activo": "Activo de Conversión",
+      "tarea": "Especiales",
+      "descripcion": "Mantenimiento programado OT 767383 PO 767513",
+      "semana": 22,
+      "mes": 5,
+      "mesNombre": "mayo",
+      "anio": "2026",
+      "observacion": "Mantenimiento cuatrimestral. PO 66737"
     },
     {
       "id": "CHEC-Menores-19",
@@ -6428,22 +6482,22 @@
     }
   ],
   "stats": {
-    "totalRecords": 238,
+    "totalRecords": 240,
     "byEmpresa": {
       "ESSA": 164,
-      "CHEC": 74
+      "CHEC": 76
     },
     "byGrupo": {
       "ESSA Menores": 164,
       "CHEC Mayores": 30,
-      "CHEC Menores": 44
+      "CHEC Menores": 46
     },
-    "snapshot": "2026-07-30 11:36:47",
+    "snapshot": "2026-07-30 11:43:57",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785429387.1503484
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785429830.5914779
     }
   },
-  "version": "bca9dd96a3627913"
+  "version": "ca50fa15ef3a4da1"
 }
