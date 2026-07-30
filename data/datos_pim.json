@@ -5722,7 +5722,7 @@
       "mes": 4,
       "mesNombre": "abril",
       "anio": "2026",
-      "observacion": "Unidad fuera de servicio por Caracol"
+      "observacion": "Unidad fuera de servicio por conducción"
     },
     {
       "id": "CHEC-Menores-22",
@@ -6141,12 +6141,12 @@
       "CHEC Mayores": 28,
       "CHEC Menores": 35
     },
-    "snapshot": "2026-07-30 09:51:51",
+    "snapshot": "2026-07-30 09:53:00",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785423059.399289
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785423126.140632
     }
   },
-  "version": "ad5e870e61ae0091"
+  "version": "777167037ff814ed"
 }
