@@ -6546,12 +6546,12 @@
       "CHEC Mayores": 30,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-07-30 11:54:30",
+    "snapshot": "2026-07-30 11:55:40",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785430435.5447557
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785430471.055243
     }
   },
-  "version": "8dd5b8086fa4edbb"
+  "version": "2b49633a9e359440"
 }
