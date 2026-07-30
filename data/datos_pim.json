@@ -5708,7 +5708,7 @@
       "unidad": "INTERMEDIA",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Cancelado",
       "fechaInicio": "2026-04-27T07:00:00",
       "fechaFin": "2026-04-30T18:00:00",
       "duracionHoras": 83.0,
@@ -5722,7 +5722,7 @@
       "mes": 4,
       "mesNombre": "abril",
       "anio": "2026",
-      "observacion": ""
+      "observacion": "Unidad fuera de servicio por Caracol"
     },
     {
       "id": "CHEC-Menores-22",
@@ -6141,12 +6141,12 @@
       "CHEC Mayores": 28,
       "CHEC Menores": 35
     },
-    "snapshot": "2026-07-30 09:50:41",
+    "snapshot": "2026-07-30 09:51:51",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785422998.6290836
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785423059.399289
     }
   },
-  "version": "d401b94eace5f3a3"
+  "version": "ad5e870e61ae0091"
 }
