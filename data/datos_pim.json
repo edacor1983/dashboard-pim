@@ -6103,11 +6103,11 @@
       "observacion": "Se realizó en parada en salida forzada por desprendimiento de placa del muro del canal de conducción entrada tanque de carga. # SS 1326908, desde 28/04/2026 7:40 hasta 12/05/2026 17:17."
     },
     {
-      "id": "CHEC-Menores-39",
+      "id": "CHEC-Menores-36",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 39,
+      "filaExcel": 36,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
@@ -6130,11 +6130,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-40",
+      "id": "CHEC-Menores-37",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 40,
+      "filaExcel": 37,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6157,11 +6157,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-41",
+      "id": "CHEC-Menores-38",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 41,
+      "filaExcel": 38,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6184,11 +6184,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-42",
+      "id": "CHEC-Menores-39",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 42,
+      "filaExcel": 39,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6211,11 +6211,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-43",
+      "id": "CHEC-Menores-40",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 43,
+      "filaExcel": 40,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6249,12 +6249,12 @@
       "CHEC Mayores": 28,
       "CHEC Menores": 39
     },
-    "snapshot": "2026-07-30 10:15:51",
+    "snapshot": "2026-07-30 10:17:00",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424548.163043
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424581.0794237
     }
   },
-  "version": "713a2267e42b69ad"
+  "version": "cce9048902785b23"
 }
