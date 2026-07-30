@@ -5951,7 +5951,7 @@
       "unidad": "INTERMEDIA",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "(En blanco)",
       "fechaInicio": "2026-01-01T00:00:00",
       "fechaFin": "",
       "duracionHoras": 0.0,
@@ -6546,12 +6546,12 @@
       "CHEC Mayores": 30,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-07-30 11:53:20",
+    "snapshot": "2026-07-30 11:54:30",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785430387.0425844
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785430435.5447557
     }
   },
-  "version": "3db7b35492e62ae7"
+  "version": "8dd5b8086fa4edbb"
 }
