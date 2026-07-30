@@ -5627,12 +5627,66 @@
       "unidad": "INSULA 3",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-07-13T07:00:00",
       "fechaFin": "2026-07-14T23:59:59",
       "duracionHoras": 41.0,
       "extensionHoras": 0.0,
       "horasMedida": 41.0,
+      "extensionFlag": 0,
+      "activo": "Unidad",
+      "tarea": "MP_Cuatrimestral",
+      "descripcion": "MP Cuatrimestral",
+      "semana": 29,
+      "mes": 7,
+      "mesNombre": "julio",
+      "anio": "2026",
+      "observacion": ""
+    },
+    {
+      "id": "CHEC-Menores-19",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 19,
+      "sigla": "INS",
+      "central": "INSULA",
+      "unidad": "INSULA 3",
+      "origen": "Programación 1",
+      "origenNorm": "Programación",
+      "estado": "Ejecutado",
+      "fechaInicio": "2026-07-14T07:00:00",
+      "fechaFin": "2026-07-15T23:59:59",
+      "duracionHoras": 41.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 41.0,
+      "extensionFlag": 0,
+      "activo": "Unidad",
+      "tarea": "MP_Cuatrimestral",
+      "descripcion": "MP Cuatrimestral",
+      "semana": 29,
+      "mes": 7,
+      "mesNombre": "julio",
+      "anio": "2026",
+      "observacion": ""
+    },
+    {
+      "id": "CHEC-Menores-20",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 20,
+      "sigla": "INS",
+      "central": "INSULA",
+      "unidad": "INSULA 3",
+      "origen": "Ejecución",
+      "origenNorm": "Ejecución",
+      "estado": "Ejecutado",
+      "fechaInicio": "2026-07-14T07:05:00",
+      "fechaFin": "2026-07-15T21:27:00",
+      "duracionHoras": 38.37,
+      "extensionHoras": 0.0,
+      "horasMedida": 38.37,
       "extensionFlag": 0,
       "activo": "Unidad",
       "tarea": "MP_Cuatrimestral",
@@ -6239,22 +6293,22 @@
     }
   ],
   "stats": {
-    "totalRecords": 231,
+    "totalRecords": 233,
     "byEmpresa": {
       "ESSA": 164,
-      "CHEC": 67
+      "CHEC": 69
     },
     "byGrupo": {
       "ESSA Menores": 164,
       "CHEC Mayores": 28,
-      "CHEC Menores": 39
+      "CHEC Menores": 41
     },
-    "snapshot": "2026-07-30 10:19:18",
+    "snapshot": "2026-07-30 10:21:28",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424697.7597625
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424885.1762946
     }
   },
-  "version": "8ed545268b651445"
+  "version": "111acc7a020a1ed8"
 }
