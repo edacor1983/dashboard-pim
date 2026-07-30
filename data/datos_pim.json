@@ -4547,7 +4547,7 @@
       "unidad": "ESMERALDA 1",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-03-09T09:00:00",
       "fechaFin": "2026-03-10T17:00:00",
       "duracionHoras": 32.0,
@@ -4790,7 +4790,7 @@
       "unidad": "ESMERALDA 2",
       "origen": "Fuera de PIM",
       "origenNorm": "Fuera de PIM",
-      "estado": "Ejecutado",
+      "estado": "Sin_Plan",
       "fechaInicio": "2026-03-09T09:00:00",
       "fechaFin": "2026-03-10T17:00:00",
       "duracionHoras": 32.0,
@@ -6573,12 +6573,12 @@
       "CHEC Mayores": 29,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-07-30 15:53:08",
+    "snapshot": "2026-07-30 15:55:18",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785444782.4677658,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785440083.719653
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785444870.8141649
     }
   },
-  "version": "84c38130d44f9dde"
+  "version": "a3f0b5e69a17a9ff"
 }
