@@ -5830,7 +5830,7 @@
       "mes": 4,
       "mesNombre": "abril",
       "anio": "2026",
-      "observacion": ""
+      "observacion": "Se realizó en parada fuera de PIM, revisión de cojinete OT 705744"
     },
     {
       "id": "CHEC-Menores-30",
@@ -5841,8 +5841,8 @@
       "sigla": "MCP",
       "central": "MUNICIPAL",
       "unidad": "MUNICIPAL 1",
-      "origen": "Plan",
-      "origenNorm": "Plan",
+      "origen": "Ejecución",
+      "origenNorm": "Ejecución",
       "estado": "Ejecutado",
       "fechaInicio": "2026-05-01T07:00:00",
       "fechaFin": "2026-05-04T11:01:00",
@@ -5857,7 +5857,7 @@
       "mes": 5,
       "mesNombre": "mayo",
       "anio": "2026",
-      "observacion": ""
+      "observacion": "Se realizó en parada fuera de PIM, revisión de cojinete OT 705744"
     },
     {
       "id": "CHEC-Menores-33",
@@ -6195,12 +6195,12 @@
       "CHEC Mayores": 28,
       "CHEC Menores": 37
     },
-    "snapshot": "2026-07-30 10:05:11",
+    "snapshot": "2026-07-30 10:06:22",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785423850.4010763
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785423976.1695337
     }
   },
-  "version": "1a084cd00c6719d1"
+  "version": "7d18c1d906585cea"
 }
