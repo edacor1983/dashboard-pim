@@ -6046,7 +6046,7 @@
       "mes": 5,
       "mesNombre": "mayo",
       "anio": "2026",
-      "observacion": ""
+      "observacion": "Se realizó en parada en salida forzada por desprendimiento de placa del muro del canal de conducción entrada tanque de carga. # SS 1326908, desde 28/04/2026 7:40 hasta 12/05/2026 17:17."
     },
     {
       "id": "CHEC-Menores-34",
@@ -6060,20 +6060,20 @@
       "origen": "Programación 1",
       "origenNorm": "Programación",
       "estado": "Ejecutado",
-      "fechaInicio": "",
-      "fechaFin": "",
-      "duracionHoras": 0.0,
+      "fechaInicio": "2026-05-08T07:00:00",
+      "fechaFin": "2026-05-11T00:00:00",
+      "duracionHoras": 65.0,
       "extensionHoras": 0.0,
-      "horasMedida": 0.0,
+      "horasMedida": 65.0,
       "extensionFlag": 0,
       "activo": "Unidad",
       "tarea": "MP_Cuatrimestral",
       "descripcion": "MP Cuatrimestral",
-      "semana": 52,
-      "mes": 0,
-      "mesNombre": "(En blanco)",
-      "anio": "",
-      "observacion": ""
+      "semana": 19,
+      "mes": 5,
+      "mesNombre": "mayo",
+      "anio": "2026",
+      "observacion": "Se realizó en parada en salida forzada por desprendimiento de placa del muro del canal de conducción entrada tanque de carga. # SS 1326908, desde 28/04/2026 7:40 hasta 12/05/2026 17:17."
     },
     {
       "id": "CHEC-Menores-35",
@@ -6087,20 +6087,20 @@
       "origen": "Ejecución",
       "origenNorm": "Ejecución",
       "estado": "Ejecutado",
-      "fechaInicio": "",
-      "fechaFin": "",
-      "duracionHoras": 0.0,
+      "fechaInicio": "2026-05-08T07:00:00",
+      "fechaFin": "2026-05-11T00:00:00",
+      "duracionHoras": 65.0,
       "extensionHoras": 0.0,
-      "horasMedida": 0.0,
+      "horasMedida": 65.0,
       "extensionFlag": 0,
       "activo": "Unidad",
       "tarea": "MP_Cuatrimestral",
       "descripcion": "MP Cuatrimestral",
-      "semana": 52,
-      "mes": 0,
-      "mesNombre": "(En blanco)",
-      "anio": "",
-      "observacion": ""
+      "semana": 19,
+      "mes": 5,
+      "mesNombre": "mayo",
+      "anio": "2026",
+      "observacion": "Se realizó en parada en salida forzada por desprendimiento de placa del muro del canal de conducción entrada tanque de carga. # SS 1326908, desde 28/04/2026 7:40 hasta 12/05/2026 17:17."
     },
     {
       "id": "CHEC-Menores-39",
@@ -6249,12 +6249,12 @@
       "CHEC Mayores": 28,
       "CHEC Menores": 39
     },
-    "snapshot": "2026-07-30 10:09:41",
+    "snapshot": "2026-07-30 10:15:51",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424124.466275
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424548.163043
     }
   },
-  "version": "afc340dcef1efb28"
+  "version": "713a2267e42b69ad"
 }
