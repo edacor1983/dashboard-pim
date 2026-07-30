@@ -4790,7 +4790,7 @@
       "unidad": "ESMERALDA 2",
       "origen": "Extensión",
       "origenNorm": "Extensión",
-      "estado": "Cancelado",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-04-16T06:19:33",
       "fechaFin": "2026-05-02T11:17:32",
       "duracionHoras": 0.0,
@@ -6303,12 +6303,12 @@
       "CHEC Mayores": 28,
       "CHEC Menores": 41
     },
-    "snapshot": "2026-07-30 10:22:37",
+    "snapshot": "2026-07-30 10:23:48",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785424951.8759606
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785425015.1948905
     }
   },
-  "version": "b8873a603640a08f"
+  "version": "9b177801de7fb3d7"
 }
