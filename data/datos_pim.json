@@ -5440,14 +5440,14 @@
       "origenNorm": "Fuera de PIM",
       "estado": "Ejecutado",
       "fechaInicio": "2026-06-30T07:05:00",
-      "fechaFin": "",
-      "duracionHoras": 0.0,
+      "fechaFin": "2026-06-30T20:30:00",
+      "duracionHoras": 13.42,
       "extensionHoras": 0.0,
-      "horasMedida": 0.0,
+      "horasMedida": 13.42,
       "extensionFlag": 0,
       "activo": "Activo de Conversión",
       "tarea": "Especiales",
-      "descripcion": "Fuera de linea pro mantenimiento programado.OT # 789962",
+      "descripcion": "Turbina: Fuga",
       "semana": 27,
       "mes": 6,
       "mesNombre": "junio",
@@ -6546,12 +6546,12 @@
       "CHEC Mayores": 30,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-07-30 14:00:39",
+    "snapshot": "2026-07-30 14:05:49",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785438005.6407745
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785438342.166301
     }
   },
-  "version": "89577e9d40551155"
+  "version": "8b60e4b45795c150"
 }
