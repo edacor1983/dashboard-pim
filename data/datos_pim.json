@@ -5482,6 +5482,33 @@
       "observacion": "Mantenimiento cuatrimestral. PO 66737"
     },
     {
+      "id": "CHEC-Menores-13",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 13,
+      "sigla": "INS",
+      "central": "INSULA",
+      "unidad": "INSULA 3",
+      "origen": "Fuera de PIM",
+      "origenNorm": "Fuera de PIM",
+      "estado": "Ejecutado",
+      "fechaInicio": "2026-06-30T07:05:00",
+      "fechaFin": "",
+      "duracionHoras": 0.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 0.0,
+      "extensionFlag": 0,
+      "activo": "Activo de Conversión",
+      "tarea": "Especiales",
+      "descripcion": "Fuera de linea pro mantenimiento programado.OT # 789962",
+      "semana": 27,
+      "mes": 6,
+      "mesNombre": "junio",
+      "anio": "2026",
+      "observacion": "Mantenimiento cuatrimestral. PO 66737"
+    },
+    {
       "id": "CHEC-Menores-19",
       "empresa": "CHEC",
       "grupo": "Menores",
@@ -6482,22 +6509,22 @@
     }
   ],
   "stats": {
-    "totalRecords": 240,
+    "totalRecords": 241,
     "byEmpresa": {
       "ESSA": 164,
-      "CHEC": 76
+      "CHEC": 77
     },
     "byGrupo": {
       "ESSA Menores": 164,
       "CHEC Mayores": 30,
-      "CHEC Menores": 46
+      "CHEC Menores": 47
     },
-    "snapshot": "2026-07-30 11:43:57",
+    "snapshot": "2026-07-30 11:50:08",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785429830.5914779
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785430167.5025003
     }
   },
-  "version": "ca50fa15ef3a4da1"
+  "version": "cc6bd86dbd14b60c"
 }
