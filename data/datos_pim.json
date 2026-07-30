@@ -4898,7 +4898,7 @@
       "unidad": "SAN FRANCISCO 3",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-04-06T06:00:00",
       "fechaFin": "2026-04-07T23:59:59",
       "duracionHoras": 42.0,
@@ -4925,7 +4925,7 @@
       "unidad": "SAN FRANCISCO 3",
       "origen": "Programación 1",
       "origenNorm": "Programación",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-04-06T06:00:00",
       "fechaFin": "2026-04-09T20:10:00",
       "duracionHoras": 86.17,
@@ -4952,7 +4952,7 @@
       "unidad": "SAN FRANCISCO 3",
       "origen": "Ejecución",
       "origenNorm": "Ejecución",
-      "estado": "(En blanco)",
+      "estado": "Ejecutado",
       "fechaInicio": "2026-04-06T06:00:00",
       "fechaFin": "2026-04-09T20:10:00",
       "duracionHoras": 86.17,
@@ -6006,12 +6006,12 @@
       "CHEC Mayores": 24,
       "CHEC Menores": 34
     },
-    "snapshot": "2026-07-30 07:32:56",
+    "snapshot": "2026-07-30 07:34:06",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785414744.074527
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785414800.0623815
     }
   },
-  "version": "ebb25dd5b2391352"
+  "version": "37faf38b28b36882"
 }
