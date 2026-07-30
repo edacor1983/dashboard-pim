@@ -6435,6 +6435,33 @@
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 1",
+      "origen": "Fuera de PIM",
+      "origenNorm": "Fuera de PIM",
+      "estado": "Ejecutado",
+      "fechaInicio": "2026-07-09T08:27:00",
+      "fechaFin": "",
+      "duracionHoras": 0.0,
+      "extensionHoras": 0.0,
+      "horasMedida": 0.0,
+      "extensionFlag": 0,
+      "activo": "Unidad",
+      "tarea": "Pruebas",
+      "descripcion": "Unidad 1 fuera de linea para pruebas en el transformador de potencia PO: 784794",
+      "semana": 28,
+      "mes": 7,
+      "mesNombre": "julio",
+      "anio": "2026",
+      "observacion": ""
+    },
+    {
+      "id": "CHEC-Menores-60",
+      "empresa": "CHEC",
+      "grupo": "Menores",
+      "hoja": "Menores CHEC",
+      "filaExcel": 60,
+      "sigla": "SANC",
+      "central": "SANCANCIO",
+      "unidad": "SANCANCIO 1",
       "origen": "Plan",
       "origenNorm": "Plan",
       "estado": "(En blanco)",
@@ -6454,11 +6481,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-56",
+      "id": "CHEC-Menores-61",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 56,
+      "filaExcel": 61,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6481,11 +6508,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-57",
+      "id": "CHEC-Menores-62",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 57,
+      "filaExcel": 62,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6508,11 +6535,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-58",
+      "id": "CHEC-Menores-63",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 58,
+      "filaExcel": 63,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6535,11 +6562,11 @@
       "observacion": ""
     },
     {
-      "id": "CHEC-Menores-59",
+      "id": "CHEC-Menores-64",
       "empresa": "CHEC",
       "grupo": "Menores",
       "hoja": "Menores CHEC",
-      "filaExcel": 59,
+      "filaExcel": 64,
       "sigla": "SANC",
       "central": "SANCANCIO",
       "unidad": "SANCANCIO 2",
@@ -6563,22 +6590,22 @@
     }
   ],
   "stats": {
-    "totalRecords": 243,
+    "totalRecords": 244,
     "byEmpresa": {
       "ESSA": 164,
-      "CHEC": 79
+      "CHEC": 80
     },
     "byGrupo": {
       "ESSA Menores": 164,
       "CHEC Mayores": 30,
-      "CHEC Menores": 49
+      "CHEC Menores": 50
     },
-    "snapshot": "2026-07-30 13:32:37",
+    "snapshot": "2026-07-30 13:34:49",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785359587.4023108,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785436347.2123525
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785436466.3745592
     }
   },
-  "version": "39c2216b22cd9085"
+  "version": "7032e4742d226297"
 }
