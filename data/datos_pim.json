@@ -4881,7 +4881,7 @@
       "activo": "Activo de Conversión",
       "tarea": "MP_Trimestral",
       "descripcion": "Tanque Esmeralda : MP, Lavada; Tanque de carga, inspección conducción -Mantenimiento tanque de carga con maquinaria amarilla -Cambio de aislamiento de tapa cojinete superior - Limpieza del rotor cleaner KV 30",
-      "semana": null,
+      "semana": 28,
       "mes": 4,
       "mesNombre": "abril",
       "anio": "2026",
@@ -4898,7 +4898,7 @@
       "unidad": "ESMERALDA 2",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Cancelado",
       "fechaInicio": "2026-07-07T05:00:00",
       "fechaFin": "2026-08-30T23:59:59",
       "duracionHoras": 1315.0,
@@ -4925,7 +4925,7 @@
       "unidad": "ESMERALDA 2",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Cancelado",
       "fechaInicio": "2026-11-23T05:00:00",
       "fechaFin": "2026-11-24T23:59:59",
       "duracionHoras": 43.0,
@@ -6573,12 +6573,12 @@
       "CHEC Mayores": 29,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-11-18 18:48:29",
+    "snapshot": "2026-11-18 18:49:49",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785446890.3642962,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1795045690.2916672
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1795045789.2230961
     }
   },
-  "version": "beef00610ae1a898"
+  "version": "74c59062837921b9"
 }
