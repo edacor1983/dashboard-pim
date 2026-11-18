@@ -5490,8 +5490,8 @@
       "sigla": "INS",
       "central": "INSULA",
       "unidad": "INSULA 1",
-      "origen": "Plan",
-      "origenNorm": "Plan",
+      "origen": "Fuera de PIM",
+      "origenNorm": "Fuera de PIM",
       "estado": "Sin_Plan",
       "fechaInicio": "2026-02-23T07:00:00",
       "fechaFin": "2026-06-29T23:59:59",
@@ -6573,12 +6573,12 @@
       "CHEC Mayores": 29,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-11-18 18:40:31",
+    "snapshot": "2026-11-18 18:43:26",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785446890.3642962,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1795045193.92013
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1795045374.1802194
     }
   },
-  "version": "b2d89d4655f61a97"
+  "version": "c4b0a352c16e21e4"
 }
