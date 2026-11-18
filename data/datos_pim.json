@@ -5492,7 +5492,7 @@
       "unidad": "INSULA 1",
       "origen": "Plan",
       "origenNorm": "Plan",
-      "estado": "(En blanco)",
+      "estado": "Cancelado",
       "fechaInicio": "2026-02-23T07:00:00",
       "fechaFin": "2026-06-29T23:59:59",
       "duracionHoras": 3041.0,
@@ -5933,7 +5933,7 @@
       "extensionFlag": 0,
       "activo": "Unidad",
       "tarea": "Correctivo",
-      "descripcion": "Recuperacion unidad y conduccion po 166992",
+      "descripcion": "Recuperacion unidad y conduccion PO 166992",
       "semana": 1,
       "mes": 1,
       "mesNombre": "enero",
@@ -6573,12 +6573,12 @@
       "CHEC Mayores": 29,
       "CHEC Menores": 48
     },
-    "snapshot": "2026-07-30 16:29:04",
+    "snapshot": "2026-11-18 17:52:11",
     "errors": [],
     "sourceMtimes": {
       "PIM Indisponibilidades 2026-ESSA.xlsx": 1785446890.3642962,
-      "PIM Indisponibilidades 2026-CHEC.xlsx": 1785445391.6947987
+      "PIM Indisponibilidades 2026-CHEC.xlsx": 1795027563.9082901
     }
   },
-  "version": "68f7def262825cf0"
+  "version": "72af50b9c864d978"
 }
